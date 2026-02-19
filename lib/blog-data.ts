@@ -56,7 +56,7 @@ At Aura Fields Foundation, we believe that understanding these fundamentals is e
 The future of finance is being built today. Join us in exploring these innovations and preparing for the opportunities ahead.
     `,
     date: "2025-01-15",
-    author: "Neil Deshmukh",
+    author: "Aura",
     category: "Education",
     readTime: "8 min read",
   },
@@ -106,7 +106,7 @@ Financial technology has the potential to create a more equitable financial syst
 Join us in building financial technology communities where everyone has a seat at the table.
     `,
     date: "2025-01-08",
-    author: "Maria Prusakova",
+    author: "Aura",
     category: "Community",
     readTime: "6 min read",
   },
@@ -161,7 +161,7 @@ At Aura Fields Foundation, our workshops address not just the technical aspects 
 The market will be volatile. Your response doesn't have to be.
     `,
     date: "2024-12-20",
-    author: "",
+    author: "Aura",
     category: "Strategy",
     readTime: "7 min read",
   },
@@ -229,7 +229,7 @@ Understanding smart contracts—even at a conceptual level—is increasingly val
 The programmable finance revolution is just beginning. Understanding its building blocks positions you to participate in—and benefit from—what comes next.
     `,
     date: "2024-12-05",
-    author: "",
+    author: "Aura",
     category: "Technology",
     readTime: "9 min read",
   },
@@ -299,7 +299,7 @@ Our mission is to accelerate this democratization—ensuring that everyone has a
 The future of finance is being written now. Let's write it together.
     `,
     date: "2024-11-18",
-    author: "",
+    author: "Aura",
     category: "Insights",
     readTime: "7 min read",
   },
